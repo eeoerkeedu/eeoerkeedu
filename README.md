@@ -8,7 +8,7 @@ import FullStackWebDev from 'Erik_Oerke';
 class Introduction extends FullStackWebDev {
   this.intro    = 'Curious and thoughtfull full stack developer who is passionate about site design,
                    efficient server modeling, and making useful and fun apps. Excelling in teamwork,
-				   communication, thoughtful problem-solving, critical thinking, and inclusivity.';
+                   communication, thoughtful problem-solving, critical thinking, and inclusivity.';
 }
 
 class Bio extends FullStackWebDev {
